@@ -8,3 +8,7 @@ all desire. Moreover, once I hit my sophomore year, I heard all about this "Leet
 ## Comment (Isabel Chen)
 
 This is really interesting to me because I completely agree that Leetcode does not expose all the skill of a candidate. In fact, someone could know many of the Leetcode problems like the back of their hand, but realistically be quite bad at practical coding. But on the flip side, I could see how it is difficult to test someone's technical skill. I am thinking that maybe side projects could be a great way to show your particular skill. I have also noticed that many companies are actually leaving the Leetcode space and are not asking more open ended technical questions during their interviews. In my opinion, this definitely creates a more comfortable space for candidates and doesn't put as much stress on getting little details correct. 
+
+### Comment (Safal Shrestha)
+
+For me, I can't deal with the pressure of being timed and making my brain work at the same time. Therefore, it has been a bit harder for me to do well in those. Therefore, I would definitely advocate for moving away from rigorous technical interviews. However, I do understand this might not realistic because technical interviews do provide a lot of insight about a candidate to the interviewer. I guess its just a matter of practice.
